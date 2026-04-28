@@ -1,37 +1,9 @@
-# Hi, I'm Zohaib Jamshad
+<h1 align="center">Hi 👋, I'm Zohaib Jamshad</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-I'm a frontend developer in progress 🚀
-Currently learning and building skills in modern web development.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 💻 Skills
-
-* HTML
-* CSS
-* JavaScript
-* React.js
-* Tailwind CSS
-
-## 🌱 Currently Learning
-
-* Advanced JavaScript
-* React Projects
-* Responsive Web Design
-
-## 🎯 Goals
-
-* Build real-world frontend projects
-* Improve my coding skills daily
-* Become a professional frontend developer
-
-## 📂 About This Repository
-
-This repository is part of my learning journey.
-I will upload my practice code and projects here.
-
-## 📫 Contact
-
-* GitHub: zohaibjamshad6-stack
-
----
-
-More projects coming soon 🙂
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
