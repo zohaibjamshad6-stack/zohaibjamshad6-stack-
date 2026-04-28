@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Zohaib Jamshad
 
 I'm a frontend developer in progress 🚀
 Currently learning and building skills in modern web development.
@@ -30,7 +30,7 @@ I will upload my practice code and projects here.
 
 ## 📫 Contact
 
-* GitHub: [your-username]
+* GitHub: zohaibjamshad6-stack
 
 ---
 
