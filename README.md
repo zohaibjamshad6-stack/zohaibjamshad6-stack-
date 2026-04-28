@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Zohaib Jamshad                                ![image](https://github.com/zohaibjamshad6-stack/zohaibjamshad6-stack-/blob/44cd8b7ddf62747a497dc79a21515c1558389c6f/Gemini_Generated_Image_ignpupignpupignp.png?raw=true)
 
 💻 Frontend Developer (Learning & Building)
 Passionate about creating modern, responsive, and user-friendly web applications.
